@@ -13,10 +13,10 @@
     },
     {
       "name": "Dedy Kurniawan",
-      "email": "dedy.kurniawan@ui.ac.id,
+      "email": "dedy.kurniawan@ui.ac.id",
       "homepage": "https://staff.ui.ac.id/dedy.kurniawan",
       "role": "Developer"
-      }
+    }
   ],
   "require": {
     "php": ">=5.3",
