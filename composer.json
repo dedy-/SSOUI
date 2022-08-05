@@ -1,16 +1,22 @@
 {
-  "name": "ristek/sso",
+  "name": "fkui/sso",
   "type": "library",
   "description": "Utility library for authentication with SSO-UI",
   "keywords": ["authentication"],
-  "homepage": "http://github.com/RistekCSUI/SSO",
+  "homepage": "http://github.com/dedy-/SSOUI",
   "license": "MIT",
   "authors": [
     {
       "name": "Bobby Priambodo",
       "email": "bobby.priambodo@gmail.com",
       "homepage": "http://bobbypriambodo.com"
-    }
+    },
+    {
+      "name": "Dedy Kurniawan",
+      "email": "dedy.kurniawan@ui.ac.id,
+      "homepage": "https://staff.ui.ac.id/dedy.kurniawan",
+      "role": "Developer"
+      }
   ],
   "require": {
     "php": ">=5.3",
