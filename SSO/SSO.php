@@ -116,12 +116,19 @@ class SSO
    */
   public static function getUser() {
     $details = phpCAS::getAttributes();
+    
+    // check user role
+    if(isset($details['npm'])) {
+      $peran = 'mahasiswa';
+    } else if(isset($details['nip'])) {
+      $peran = 'staff';
+    }
 
     // Create new user object, initially empty.
     $user = new \stdClass();
     $user->username = phpCAS::getUser();
     $user->name = $details['nama'];
-    $user->role = $details['peran_user'];
+    $user->role = $peran;
 
     if ($user->role === 'mahasiswa') {
       $user->npm = $details['npm'];
