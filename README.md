@@ -15,7 +15,7 @@ Untuk meng-*install* *library* ini, ikuti langkah berikut.
         
         {
             "require": {
-                "ristek/sso": "*"
+                "fkui/sso": "*"
             }
         }
 
