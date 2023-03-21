@@ -51,6 +51,11 @@ define('CAS_SERVER_URI', '/cas');
  */
 define('CAS_SERVER_PORT', 443);
 
+/**
+ * CAS service name
+ */
+define('CAS_SERVICE_NAME', 'https://*.ui.ac.id');
+
 // ------------------------------------------------------------------------
 //  CAS Initialization
 // ------------------------------------------------------------------------
@@ -60,7 +65,7 @@ if (class_exists('phpCAS')) {
   /**
    * Create phpCAS client
    */
-  phpCAS::client(CAS_VERSION_2_0, CAS_SERVER_HOST, CAS_SERVER_PORT, CAS_SERVER_URI);
+  phpCAS::client(CAS_VERSION_2_0, CAS_SERVER_HOST, CAS_SERVER_PORT, CAS_SERVER_URI, CAS_SERVICE_NAME);
 
   /**
    * Set no validation.
