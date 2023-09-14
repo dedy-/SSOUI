@@ -65,7 +65,7 @@ if (class_exists('phpCAS')) {
   /**
    * Create phpCAS client
    */
-  phpCAS::client(CAS_VERSION_2_0, CAS_SERVER_HOST, CAS_SERVER_PORT, CAS_SERVER_URI, CAS_SERVICE_NAME, CAS_SERVICE_NAME);
+  phpCAS::client(CAS_VERSION_2_0, CAS_SERVER_HOST, CAS_SERVER_PORT, CAS_SERVER_URI, CAS_SERVICE_NAME);
 
   /**
    * Set no validation.
