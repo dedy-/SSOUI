@@ -259,6 +259,16 @@
       "study_program":"Anestesiologi & Terapi Intensif (Anesthesiology & Intensive Therapy)",
       "educational_program":"Spesialis 2 (Sub Specialist Program)"
    },
+   "55.00.01.01":{
+      "faculty":"KEDOKTERAN",
+      "study_program":"Kedokteran Keluarga Layanan Primer (Primary Care and Family Medicine)",
+      "educational_program":"Spesialis I (Specialist Program)"
+   },
+   "56.00.01.01":{
+      "faculty":"KEDOKTERAN",
+      "study_program":"Orthopaedi dan Traumatologi (Orthopaedic and Traumatology Surgery)",
+      "educational_program":"Spesialis 2 (Sub Specialist Program)"
+   },
    "01.00.02.01":{
       "faculty":"KEDOKTERAN GIGI",
       "study_program":"Pendidikan Dokter Gigi (Dental Education)",
