@@ -269,6 +269,26 @@
       "study_program":"Orthopaedi dan Traumatologi (Orthopaedic and Traumatology Surgery)",
       "educational_program":"Spesialis 2 (Sub Specialist Program)"
    },
+   "57.00.01.01":{
+      "faculty":"KEDOKTERAN",
+      "study_program":"Urologi (Urology)",
+      "educational_program":"Spesialis 2 (Sub Specialist Program)"
+   },
+   "58.00.01.01":{
+      "faculty":"KEDOKTERAN",
+      "study_program":"Pendidikan Dokter Spesialis Kedokteran Emergensi (Emergency Medicine)",
+      "educational_program":"Spesialis 1 (Specialist Program)"
+   },
+   "59.00.01.01":{
+      "faculty":"KEDOKTERAN",
+      "study_program":"Jantung dan Pembuluh Darah (Cardiovascular Medicine)",
+      "educational_program":"Spesialis 2 (Sub Specialist Program)"
+   },
+   "60.00.01.01":{
+      "faculty":"KEDOKTERAN",
+      "study_program":"Ilmu Kesehatan Mata (Ophthalmology)",
+      "educational_program":"Spesialis 2 (Sub Specialist Program)"
+   },
    "01.00.02.01":{
       "faculty":"KEDOKTERAN GIGI",
       "study_program":"Pendidikan Dokter Gigi (Dental Education)",
