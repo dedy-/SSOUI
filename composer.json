@@ -20,7 +20,7 @@
   ],
   "require": {
     "php": ">=5.3",
-    "jasig/phpcas": "*"
+    "apereo/phpcas": "*"
   },
   "autoload": {
     "psr-0": { "SSO": "."}
